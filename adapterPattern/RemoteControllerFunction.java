@@ -5,5 +5,4 @@ public interface RemoteControllerFunction {
     public String powerOff();
     public String pressPlusButton();
     public String pressMinusButton();
-    public String plugIn(); //powerOutlet 
 }
