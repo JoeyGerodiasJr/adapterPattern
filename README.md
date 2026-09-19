@@ -29,4 +29,4 @@ In your solution you must provide the following in your Github link account:
   Uploaded java codes for the solution.
 
 ## Class Diagram
-![image](https://github.com/JerryEsperanza/factoryPattern/assets/142370600/0506f134-a5f6-4d98-a817-cd6f7a8466c7)
+
