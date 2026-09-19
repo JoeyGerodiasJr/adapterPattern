@@ -27,4 +27,9 @@ public class TvAdapter implements  RemoteControllerFunction {
     public String pressMinusButton() {
         return tv.changeChannelDown();
     }
+
+    @Override
+    public String plugIn() {
+    return "TV is plugged into the power outlet.";
+    }
 }
