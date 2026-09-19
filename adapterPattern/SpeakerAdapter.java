@@ -26,9 +26,4 @@ public class SpeakerAdapter implements RemoteControllerFunction {
     public String pressMinusButton() {
         return speaker.voulumeDown();
     }
-
-    @Override
-    public String plugIn() {
-    return "Speaker is plugged into the power outlet.";
-    }
 }
