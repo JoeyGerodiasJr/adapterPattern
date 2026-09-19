@@ -26,4 +26,8 @@ public class AirconAdapter implements RemoteControllerFunction {
     public String pressMinusButton() {
         return airCon.tempDown();
     }
+    @Override
+    public String plugIn() {
+    return "Air conditioner is plugged into the power outlet.";
+    } 
 }
