@@ -1,6 +1,6 @@
 package adapterPattern;
 
-public class RefrigeratorAdapter implements PowerOutlet, RemoteControllerFunction {
+public class RefrigeratorAdapter implements PowerOutlet {
 
     private Refrigerator refrigerator;
 
