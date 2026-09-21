@@ -29,7 +29,8 @@ In your solution you must provide the following in your Github link account:
   Uploaded java codes for the solution.
 
 ## Class Diagram
-<img width="4096" height="2527" alt="image" src="https://github.com/user-attachments/assets/960a1525-508b-432e-ae8d-11d67bb4b0ad" />
+<img width="4096" height="2527" alt="image" src="https://github.com/user-attachments/assets/60a51d02-79b7-466b-ada9-32743dc1b3f5" />
+
 
 
 
